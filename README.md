@@ -7,4 +7,6 @@ Los clientes procuraré hacerlos con JS y los servidores con python, go, y node.
 En principio todos los servidores tendrán una interfase tipo REST
 El programa cliente deberá ser capaz de interacturar con los diferentes servidores a través de la API. Así que sólo necesitaré un cliente universa.
 
+La mision de los servidores es evaluar cuestionarios en línea. Los cuestionarios se subiran desde un programa cliente para profesors. 
+Y los estudiantes podrán presentar sus examenes en linea usando un cliente diferente.
 
